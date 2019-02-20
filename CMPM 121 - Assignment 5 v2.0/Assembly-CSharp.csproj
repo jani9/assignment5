@@ -60,9 +60,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
-    <Compile Include="Assets\Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
-    <Compile Include="Assets\Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
     <Compile Include="Assets\Scripts\ChangeCamera.cs" />
     <Compile Include="Assets\Scripts\CharacterController.cs" />
     <Compile Include="Assets\Scripts\CubeCounter.cs" />
@@ -70,14 +67,17 @@
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\Triggers\DoorTrigger.cs" />
-    <None Include="Assets\Assets\MegaPack1Lite\RomanCityPack1Lite\README.txt" />
+    <Compile Include="Assets\UnityStore\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
+    <Compile Include="Assets\UnityStore\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
+    <Compile Include="Assets\UnityStore\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\RomanCityPack1Lite\README.txt" />
     <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
-    <None Include="Assets\Assets\MegaPack1Lite\EnchantedForestPack1\README.txt" />
-    <None Include="Assets\Assets\MegaPack1Lite\TropicalIslandPack1\README.txt" />
-    <None Include="Assets\Assets\MegaPack1Lite\ToolsAndWeapons\README.txt" />
-    <None Include="Assets\Assets\MegaPack1Lite\GreekPack1Lite\README.txt" />
-    <None Include="Assets\Assets\MegaPack1Lite\Steampunk\README.txt" />
-    <None Include="Assets\Assets\MegaPack1Lite\SciFiPack1\README.txt" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\EnchantedForestPack1\README.txt" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\TropicalIslandPack1\README.txt" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\ToolsAndWeapons\README.txt" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\GreekPack1Lite\README.txt" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\Steampunk\README.txt" />
+    <None Include="Assets\UnityStore\MegaPack1Lite\SciFiPack1\README.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Jacinda/CMPM 121 - Assignment 5 v2.0/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
