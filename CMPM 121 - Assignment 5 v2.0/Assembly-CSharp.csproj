@@ -63,14 +63,15 @@
     <Compile Include="Assets\Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
-    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Scripts\ChangeCamera.cs" />
     <Compile Include="Assets\Scripts\CharacterController.cs" />
     <Compile Include="Assets\Scripts\CubeCounter.cs" />
     <Compile Include="Assets\Scripts\FirstPerson.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\Triggers\DoorTrigger.cs" />
     <None Include="Assets\Assets\MegaPack1Lite\RomanCityPack1Lite\README.txt" />
+    <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
     <None Include="Assets\Assets\MegaPack1Lite\EnchantedForestPack1\README.txt" />
     <None Include="Assets\Assets\MegaPack1Lite\TropicalIslandPack1\README.txt" />
     <None Include="Assets\Assets\MegaPack1Lite\ToolsAndWeapons\README.txt" />
